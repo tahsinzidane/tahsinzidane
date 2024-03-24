@@ -1,5 +1,5 @@
 
-  <img align="center" alt="coding img " src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
+
 <h1 align="center">my name is mohammad tahsin ahmed</h1>
 <h3 align="center">A passionate fullStack developer from bangladesh</h3>
 
@@ -21,9 +21,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
-
+  
+  <img align="center" alt="coding img " src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
+ 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahsinzidane&show_icons=true&locale=en&layout=compact" alt="tahsinzidane" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahsinzidane&show_icons=true&locale=en" alt="tahsinzidane" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahsinzidane&" alt="tahsinzidane" /></p>
+
+
