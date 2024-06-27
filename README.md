@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahsinzidane&label=Profile%20views&color=0e75b6&style=flat" alt="tahsinzidane" /> </p>
 
-- 🌱 I’m currently learning **ReactNative**
+- 🌱 I’m currently learning **React js**
 
 - 👨‍💻 All of my projects are available at [https://tahsinportfo.netlify.app/](https://tahsinportfo.netlify.app/)
 
