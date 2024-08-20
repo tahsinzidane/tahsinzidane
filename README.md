@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahsinzidane&label=Profile%20views&color=0e75b6&style=flat" alt="tahsinzidane" /> </p>
 
-- 🌱 I’m currently learning **express**
+- 🌱 I’m currently learning **backend**
 
 - 👨‍💻 visit personal portfolio website [https://tahsinportfo.netlify.app/](https://tahsinportfo.netlify.app/)
 
 - 📫 How to reach me **fornet.tahsin@gmail.com**
+  
+-  💬 Ask me about **Javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
