@@ -47,6 +47,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tahsinzidane&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahsinzidane&" alt="tahsinzidane" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahsinzidane&show_icons=true&locale=en&layout=compact" alt="tahsinzidane" /></p>
 
 ### 🔝 Top Contributed Repo
