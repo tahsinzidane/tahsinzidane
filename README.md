@@ -3,14 +3,17 @@
 
 
 
-  - 👨‍💻 Visit my personal portfolio: <a href="https://tahsinportfo.netlify.app/">tahsinportfo.netlify.app</a><br>
+  - 👨‍💻 Visit my personal portfolio: <a href="https://tahsinzidane.io/">https://tahsinzidane.io/</a><br>
   - 📫 How to reach me: <a href="mailto:fornet.tahsin@gmail.com">fornet.tahsin@gmail.com</a>
 
 
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tahsinzidane) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tahsinzidane/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tahsinzidane) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tahsinzidane/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tahsin-ahmed-0577852a7/)
+
 # 💻 Tech Stack:
 
 ### Frontend
