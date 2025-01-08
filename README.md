@@ -1,5 +1,12 @@
-<h1 align="center">my name is mohammad tahsin ahmed</h1>
+<h1 align="center">
+  <img src="https://i.pinimg.com/736x/ce/8d/c8/ce8dc86e9ab8849d3d300569aef4fa9b.jpg" />
+</h1>
+<h1 align="center">Hi, my name is mohammad tahsin ahmed </h1>
 <h3 align="center">A passionate fullStack developer from bangladesh</h3>
+<p align="center">
+  I focus mainly on backend development, specializing in building robust and scalable RESTful APIs. Using technologies like node js, express js , and mongoDB
+  I strive to ensure clean architecture, seamless communication between systems, and efficient performance for modern web applications.
+</p>
 
 
 
