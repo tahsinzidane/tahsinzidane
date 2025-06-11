@@ -10,7 +10,7 @@
 
 
 
-  - 👨‍💻 Visit my personal portfolio: <a href="https://tahsinzidane.io/">https://tahsinzidane.io/</a><br>
+  - 👨‍💻 Visit my personal portfolio: <a href="https://tahsinzidane.netlify.app/">https://tahsinzidane.netlify.app/</a><br>
   - 📫 How to reach me: <a href="mailto:fornet.tahsin@gmail.com">fornet.tahsin@gmail.com</a>
 
 
