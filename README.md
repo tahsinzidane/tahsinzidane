@@ -6,3 +6,4 @@ A self-taught  developer who loves building useful tools, exploring backend syst
 - MongoDB
 - Python
 - Git & Linux
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahsinzidane&show_icons=true&locale=en&layout=compact" alt="tahsinzidane" /></p>
